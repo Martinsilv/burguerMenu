@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../app.css"; // Assuming you have a global CSS file for styles
+import "../App.css"; // Assuming you have a global CSS file for styles
 import bannerImage from "../assets/bg.jpg"; // Replace with your actual image path
 import all from "../assets/burguerAll.png";
 import carne from "../assets/carne.png";

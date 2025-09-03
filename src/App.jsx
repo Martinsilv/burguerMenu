@@ -1,5 +1,5 @@
 import "./App.css";
-import BurgertownMenu from "./components/BurgertownMenu";
+import BurgertownMenu from "./components/burgertownMenu";
 
 function App() {
   return (
